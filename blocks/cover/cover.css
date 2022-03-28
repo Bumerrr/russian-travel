@@ -1,10 +1,9 @@
 .cover{
         margin: 0 auto;
-        padding: 0 ;
+        padding: 0;
         max-width: 1184px;
         min-height: 740px;
         display: flex;
-        
         align-items: center;
         justify-content: center;
         background-size: cover;

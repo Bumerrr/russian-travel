@@ -1,5 +1,5 @@
 .intro{
-    padding: 0 442px 92px 148px ;
+    padding: 0 442px 92px 148px;
     background-color: #2A2C2F;
     max-width: 690px;
     color: #fff;
@@ -9,7 +9,7 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .intro {
         
-        padding: 0 286px 92px 48px ;
+        padding: 0 286px 92px 48px;
     }
   }
   
