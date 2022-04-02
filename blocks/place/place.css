@@ -6,7 +6,7 @@
   margin-bottom: 80px;
 }
 
-.place:nth-child(5){
+.place:last-of-type {
   margin-bottom: 0;
 } 
 
